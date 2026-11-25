@@ -1,4 +1,4 @@
-# Hi, I am [JAYESH JHA]!
+# Hi, I am JAYESH JHA !
 ## About Me
 - B.Tech CSE Student at **K.R. Mangalam University**, Gurugram (Batch 2024–28)
 - Currently learning: Linux shell scripting, Git/GitHub workflows, and Python
@@ -19,5 +19,5 @@
 - Semester 1 lab projects and building daily problem-solving habits
 
 ## Connect With Me
-- LinkedIn: [www.linkedin.com/in/jayesh-jha-1b1730417]
-- Email: [2601010254@krmu.edu.in]
+- LinkedIn: www.linkedin.com/in/jayesh-jha-1b1730417
+- Email: 2601010254@krmu.edu.in
