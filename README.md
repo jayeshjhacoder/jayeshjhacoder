@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I am [JAYESH JHA]!
+## About Me
+- B.Tech CSE Student at **K.R. Mangalam University**, Gurugram (Batch 2024–28)
+- Currently learning: Linux shell scripting, Git/GitHub workflows, and Python
+- Interested in: Cybersecurity / AI-ML / Full-Stack Development / Data Science
 
-<!--
-**jayeshjhacoder/jayeshjhacoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technical Skills
+| Category | Technologies |
+|----------|--------------|
+| Languages | Python (Beginner), Bash / Shell Scripting |
+| Tools | Git, GitHub, VS Code, Linux Terminal, Postman |
+| Concepts | File Systems, Process Management, REST APIs, Markdown |
 
-Here are some ideas to get you started:
+## Featured Projects
+- [CSE103 Lab – LAB 3](https://github.com/jayeshjhacoder/cse103-lab-LAB3)
+  Git workflows, API interaction, and Markdown documentation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+- Semester 1 lab projects and building daily problem-solving habits
+
+## Connect With Me
+- LinkedIn: [www.linkedin.com/in/jayesh-jha-1b1730417]
+- Email: [2601010254@krmu.edu.in]
